@@ -1,4 +1,4 @@
-# DAeCAuswertung2019 (Version 1.3 vom 19.08.2019 15:30 Uhr)
+# DAeCAuswertung2019 (Version 1.5 vom 21.08.2019 20:10 Uhr)
 
 Zum Ausprobieren müsst ihr das Programm nicht installieren. Dadurch wird das Testen etwas einfacher. Ladet hier die aktuelle Version herunter (Versionsnummer siehe in der Überschrift...) und startet mit der Datei "Auswertung2019.exe".
 
